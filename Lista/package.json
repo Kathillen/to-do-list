@@ -1,0 +1,12 @@
+{
+  "name": "ultimaat",
+  "version": "1.0.0",
+  "main": "list/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Lista/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
